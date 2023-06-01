@@ -11,7 +11,6 @@
 5. Answer the following questions using SparkSQL:
 
    - What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places. 
-     -Average price for 2022 is $296363.88, 2021 is $301819.44, 2020 is $298353.78, 2019 is $ 300263.70
 
    - What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
